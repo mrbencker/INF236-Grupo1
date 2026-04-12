@@ -1,4 +1,4 @@
-# Grupo x
+# Grupo 1
 
 Este es el repositorio del grupo x, cuyos integrantes son:
 
